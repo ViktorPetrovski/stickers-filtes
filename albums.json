@@ -1,0 +1,25 @@
+{
+    "albums": [
+        {
+            "id": "album_123",
+            "title": "Album 45",
+            "totalStickers": 567
+        },
+        {
+            "id": "album_456",
+            "title": "Album 12",
+            "totalStickers": 789
+        },
+        {
+            "id": "album_789",
+            "title": "Album 98",
+            "totalStickers": 234
+        },
+        {
+            "id": "album_321",
+            "title": "Album 33",
+            "totalStickers": 456
+        }
+    ],
+    "version": 1
+}
