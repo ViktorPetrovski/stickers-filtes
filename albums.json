@@ -2,28 +2,18 @@
     "albums": [
         {
             "id": 1,
-            "title": "Album 45",
+            "title": "Premier League Album",
             "totalStickers": 567
         },
         {
             "id": 2,
-            "title": "Album 12",
+            "title": "Euro 2024 Toss",
             "totalStickers": 789
         },
         {
             "id": 3,
-            "title": "Album 98",
+            "title": "Barbie",
             "totalStickers": 234
-        },
-        {
-            "id": 4,
-            "title": "Album 33",
-            "totalStickers": 456
-        },        
-        {
-            "id": 5,
-            "title": "Album 666",
-            "totalStickers": 656
         }
     ],
     "version": 1
