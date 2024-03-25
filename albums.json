@@ -1,22 +1,22 @@
 {
     "albums": [
         {
-            "id": "1",
+            "id": 1,
             "title": "Album 45",
             "totalStickers": 567
         },
         {
-            "id": "2",
+            "id": 2,
             "title": "Album 12",
             "totalStickers": 789
         },
         {
-            "id": "3",
+            "id": 3,
             "title": "Album 98",
             "totalStickers": 234
         },
         {
-            "id": "4",
+            "id": 4,
             "title": "Album 33",
             "totalStickers": 456
         }
