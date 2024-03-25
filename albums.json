@@ -19,6 +19,11 @@
             "id": 4,
             "title": "Album 33",
             "totalStickers": 456
+        },        
+        {
+            "id": 5,
+            "title": "Album 666",
+            "totalStickers": 656
         }
     ],
     "version": 1
