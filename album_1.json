@@ -1,4 +1,5 @@
-[
+{
+  "stickers" : [
   {
     "id": 0,
     "position": 0,
@@ -3968,4 +3969,6 @@
     "longLabel": "Sticker 566",
     "section": "Section 21"
   }
-]
+],
+  "version" : 1
+}
